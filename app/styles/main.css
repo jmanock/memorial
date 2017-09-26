@@ -1,0 +1,45 @@
+body, html{
+  background-image:url(../images/plighthouse.jpg);
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
+  height:100vh;
+  width:100%;
+  margin:0;
+}
+.container{
+  background-color:white;
+  opacity:.65;
+  margin-top:0px;
+  align:center;
+  width:100%;
+}
+h1{
+  text-align:center;
+  font-family:cursive;
+  font-size:3.5em;
+  color:navy;
+}
+img{
+  width:75%;
+  height:75%;
+  margin-left:13%;
+}
+video{
+  margin-left:13%;
+  width:800px;
+  height:800px;
+}
+#service{
+  margin-top:200px;
+}
+#service > h1{
+  text-decoration:underline;
+}
+#pTwo{
+  margin-top:200px;
+}
+#pThree{
+  margin-top:200px;
+}
